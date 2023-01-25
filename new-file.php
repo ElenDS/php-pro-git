@@ -1,2 +1,2 @@
 <?php
-echo 'A new file has been created';
+echo 'A new file has been created and edited';
